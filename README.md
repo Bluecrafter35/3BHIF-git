@@ -4,5 +4,6 @@ My first git Repository
 Matthias Germuth, Christoph Mautner
 
 Wir sind Programmierer!
+Wir sind Schüler!
 
 Matthias Germuth Gicht
