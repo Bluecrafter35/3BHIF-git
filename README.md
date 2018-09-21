@@ -6,4 +6,8 @@ Matthias Germuth, Christoph Mautner
 Wir sind Programmierer!
 Wir sind Schüler!
 
+Wir sind Menschen!
 Matthias Germuth Gicht
+
+
+
